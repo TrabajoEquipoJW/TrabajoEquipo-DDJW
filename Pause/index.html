@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Juego con Menú de Pausa</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="game-container"></div>
+
+  <!-- Menú de Pausa -->
+  <div id="pause-menu" class="hidden">
+    <h1>PAUSA</h1>
+    <div class="audio-controls">
+      <button id="btn-toggle-sound">🔊 Sonido</button>
+      <button id="btn-toggle-music">🎶 Música</button>
+    </div>
+    <button id="btn-resume">Continuar</button>
+    <button id="btn-exit">Salir al Menú</button>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.min.js"></script>
+  <script src="main-nomodule.js"></script>
+</body>
+</html>
