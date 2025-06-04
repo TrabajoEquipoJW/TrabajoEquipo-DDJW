@@ -39,3 +39,5 @@ El juego contiene 5 minijuegos, pero en esta demo el unico jugable es el primero
 *Problemas encontrados*:
 
   -Para poder abrir el codigo y se pueda jugar al juego se tiene que hacer desde el Visual Studio Code con la extencion de Live Server o con la aplicacion de   Phaser
+
+  Enlace GitHub Pages: https://trabajoequipojw.github.io/TrabajoEquipo-DDJW/
